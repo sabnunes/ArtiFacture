@@ -46,13 +46,13 @@
     <Compile Include="Constants.cs" />
     <Compile Include="Items\ItemFX.cs" />
     <Compile Include="Items\ItemModel.cs" />
-    <Compile Include="Display.cs" />
+    <Compile Include="ProcessorParts\Display.cs" />
     <Compile Include="Items\Item.cs" />
-    <Compile Include="KeyPad.cs" />
+    <Compile Include="ProcessorParts\KeyPad.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Items\ItemRig.cs" />
-    <Compile Include="Transactor.cs" />
+    <Compile Include="ProcessorParts\Transactor.cs" />
     <Compile Include="Processor.cs" />
   </ItemGroup>
   <ItemGroup>
