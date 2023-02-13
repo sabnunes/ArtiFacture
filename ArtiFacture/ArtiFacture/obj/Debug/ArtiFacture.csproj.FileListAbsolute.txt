@@ -1,8 +1,0 @@
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\bin\Debug\ArtiFacture.exe.config
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\bin\Debug\ArtiFacture.exe
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\bin\Debug\ArtiFacture.pdb
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\obj\Debug\ArtiFacture.csproj.AssemblyReference.cache
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\obj\Debug\ArtiFacture.csproj.SuggestedBindingRedirects.cache
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\obj\Debug\ArtiFacture.csproj.CoreCompileInputs.cache
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\obj\Debug\ArtiFacture.exe
-G:\My Drive\Learn\2023-02 ArtiFacture - CG Artist Cost Generator\CSharp_ArtiFacture\ArtiFacture\ArtiFacture\obj\Debug\ArtiFacture.pdb
