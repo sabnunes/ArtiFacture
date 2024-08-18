@@ -1,16 +1,15 @@
-﻿
-using ARTIFACTURE;
-using System.Threading;
-using System;
+﻿using System.Collections.Generic;
 
 namespace ARTIFACTURE
 {
     class Constants
     {
+        // public const List<int> Bills = [1,2,3,4];
         public const string EnterSelection = "Enter your selection: ";
         public const string EnterBill = "Enter a valid dollar bill: ";
         public const string CurrentBalance = "\nYour balance is: ${0} \n";
-        public const string InvalidBill = "\nYou've entered an invalid bill.\n";
+        public const string InvalidBill = "\nInvalid bill. Enter one of the following: " +
+                                          "1, 2, 5, 10, 20, 50, 100, 500, 1000\n"; // use Bills?
         
         public const string EnterSlotNum = "Select the item # for the art asset you would like to purchase: ";
         

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ARTIFACTURE
+﻿namespace ARTIFACTURE
 {
     internal class Program
     {
@@ -32,6 +26,7 @@ namespace ARTIFACTURE
             // Passing the products array to the vending machine
             // Aggregation relationship
             Processor artifacture = new Processor(products);
+            
             // Turning on the vending machine
             artifacture.Activate();
         }

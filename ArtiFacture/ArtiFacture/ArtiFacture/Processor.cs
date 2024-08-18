@@ -11,6 +11,7 @@ namespace ARTIFACTURE
         private Transactor _transactor; // Transactor to handle the transactions
         private KeyPad _keyPad; // Keypad to read the used inputs
         private int userAmount; // Field to keep track of the user's money
+        // look into if above requires _ -> _userAmount
 
         // Parameterized constructor
         public Processor(Item[,] items)
@@ -97,6 +98,7 @@ namespace ARTIFACTURE
                             userAmount = 0;
                             Console.Clear();
                             _display.WelcomeMessage();
+                            // exit
                         }
                        
                         break;
@@ -106,8 +108,6 @@ namespace ARTIFACTURE
                         _display.DisplayMethod(Constants.InvalidSelection);
                         break;
                 }
-
-
             }
         }
 
