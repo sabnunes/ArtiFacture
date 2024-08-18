@@ -13,6 +13,5 @@ namespace ARTIFACTURE
         {
             return "Name: " + base.ItemName + " Price: " + base.Price + "$" + " Type: " + base.Type;
         }
-
     }
 }
