@@ -38,13 +38,11 @@ namespace ARTIFACTURE
         // Check if the bill is valid
         private bool ValidateBill(int bill)
         {
-            if (bill == 1 || bill == 2 || bill == 5 || bill == 10 || bill == 20 || bill == 50 || bill == 100 || bill == 1000)
+            if (bill == 1 || bill == 2 || bill == 5 || bill == 10 || bill == 20 || bill == 50 || bill == 100 || bill == 500 || bill == 1000)
             {
                 return true;
             }
             return false;
         }
-
-
     }
 }
