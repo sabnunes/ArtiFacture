@@ -25,18 +25,14 @@ Welcome to ARTIFACTURE, where you can purchase CG art with almost ZERO effort!")
         public void DisplayMethod()
         {
             Console.Write(@"
-.-----.---------------------.
-|     |                     |
-|  #  |       Action        |
-|     |                     |
-|-----|---------------------|
-|     |                     |
-|  1  |   Insert $ Bills    |
-|  2  |   Select CG Art     |
-|  3  |   Request Change    |
-|  4  |   Quit              |
-|     |                     |
-'-----'---------------------'
+.-----.-------------------.
+|  #  |      Action       |
+|-----|-------------------|
+|  1  |  Insert $ Bills   |
+|  2  |  Select CG Art    |
+|  3  |  Request Change   |
+|  4  |  Quit             |
+'-----'-------------------'
 "
 );
 
